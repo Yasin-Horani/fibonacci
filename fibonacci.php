@@ -1,5 +1,4 @@
 <?php
-require_once('db.php');
 function febonacci($num)
 {
     $x0 = 0;
